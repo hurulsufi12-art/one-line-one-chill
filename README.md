@@ -8,6 +8,8 @@ One line, written to `/output/entry.txt` by `main.py`.
 
 > The baby monitor finally learned my daughter's voice, and tonight it whispered her goodnight from the kitchen while she slept beside me.
 
+The line is 136 characters (gate: 1–200).
+
 `main.py` (Python 3.13, stdlib only) writes that line to `/output/entry.txt`. Deterministic: the same text on every run.
 
 ## Files
